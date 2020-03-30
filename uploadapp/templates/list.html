@@ -1,0 +1,19 @@
+
+<p> <a href="/upload"> upload </a> </p>
+<div class="container-fluid">
+    <div class="row col-md-4">
+        <h2>Images</h2>
+    </div>
+    <div >
+        <ul>
+            {% for img in images %}
+                <li>
+                        <a href="{% url 'image_detail' img.hash %}">
+                            <img  src="{{ img.image.url }}"
+                                 style="max-height: 600px; max-width: 700px;">
+                        </a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>

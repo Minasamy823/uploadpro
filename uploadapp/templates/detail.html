@@ -1,0 +1,30 @@
+<p> <a href="/"> list </a> </p>
+    <div >
+        <div >
+            {% if ParamsForm.errors %}
+                {% for error in ParamsForm.non_field_errors %}
+                    <div >
+                        <strong>{{ error }}</strong>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        </div>
+
+        <form action="" method="get">
+            <div >
+                {% for field in ParamsForm %}
+                    <div >
+                        {{ field.label }}
+                        {{ field }}
+                    </div>
+                {% endfor %}
+                <div>
+                    <input type="submit" value="Модифицировать">
+                </div>
+            </div>
+        </form>
+
+        <div >
+                <img src="data:image/png;base64,{{ image }}"/>
+        </div>
+    </div>

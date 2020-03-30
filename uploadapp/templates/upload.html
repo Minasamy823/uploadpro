@@ -1,0 +1,16 @@
+<p><a href="/"> list </a></p>
+{%for err in form.non_field_errors %}
+    <strong>{{ err }}</strong>
+{% endfor %}
+
+<form  method="post" enctype="multipart/form-data"> {%csrf_token%}
+
+    {%for field in form%}
+            {{ field.errors }}
+            {{ field.label_tag }}
+            {{ field }}
+    {%endfor%}
+
+    <input type="submit" >
+
+</form>
