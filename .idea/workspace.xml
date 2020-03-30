@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b749ce32-2971-4322-9761-44ceb121a546" name="Default Changelist" comment="" />
+    <list default="true" id="b749ce32-2971-4322-9761-44ceb121a546" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/9k" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/9k_6U5Okmv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/9k_6v7LVfl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/9k_pPck2YT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/9k_puGcXgo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Man-Silhouette.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2019-12-04_17-32-36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2019-12-10_23-59-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2020-01-20_13-12-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2020-01-28_13-39-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2020-02-02_23-33-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2020-02-05_18-44-52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2020-02-07_18-22-53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2020-02-08_22-40-39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2020-02-08_22-40-39_lNalg78.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2020-02-27_01-33-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2020-03-06_01-03-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2020-03-20_02-16-56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2020-03-20_02-16-56_rEHTKAH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/default_dbCs4gR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/default_fFsdsf4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ireland-in-pictures-most-beautiful-places-to-visit-hapenny-bridge-dublin.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +42,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZdXENWxI6GxO5sXKQSQtgToOBG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +55,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -68,26 +100,30 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="460" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585170846474" />
+    <state x="520" y="129" width="937" height="847" key="CommitChangelistDialog2" timestamp="1585596398784">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="520" y="129" width="937" height="847" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1585596398784" />
     <state x="785" y="334" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585170840765">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="785" y="334" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585170840765" />
-    <state width="1830" height="169" key="GridCell.Tab.0.bottom" timestamp="1585581075152">
+    <state width="1830" height="169" key="GridCell.Tab.0.bottom" timestamp="1585596369678">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="169" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585581075152" />
-    <state width="1830" height="169" key="GridCell.Tab.0.center" timestamp="1585581075150">
+    <state width="1830" height="169" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585596369678" />
+    <state width="1830" height="169" key="GridCell.Tab.0.center" timestamp="1585596369676">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="169" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585581075150" />
-    <state width="1830" height="169" key="GridCell.Tab.0.left" timestamp="1585581075149">
+    <state width="1830" height="169" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585596369676" />
+    <state width="1830" height="169" key="GridCell.Tab.0.left" timestamp="1585596369675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="169" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585581075149" />
-    <state width="1830" height="169" key="GridCell.Tab.0.right" timestamp="1585581075151">
+    <state width="1830" height="169" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585596369675" />
+    <state width="1830" height="169" key="GridCell.Tab.0.right" timestamp="1585596369677">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="169" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585581075151" />
+    <state width="1830" height="169" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585596369677" />
     <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1585571655833">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
